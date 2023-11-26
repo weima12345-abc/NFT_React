@@ -41,16 +41,16 @@ npx hardhat run scripts/deploy_MyNFT.js --network localhost
 npx hardhat node 
 ```
 记得要在这里替换掉自己的网络。 
-<img src="https://github.com/weima12345-abc/NFT_React/blob/main/Project_IMG/1.png" width="600" alt="npm start">
+<img src="https://github.com/weima12345-abc/NFT_React/blob/main/Project_IMG/2.png" width="600" alt="npm start">
 (4) 部署合约，可以得到HFT.json文件，部署完成后可以看到abi和合约地址，与remix在线编译平台一样。
 ```javascripts
 npx hardhat run scripts/deploy_MyNFT.js --network localhost
 npx hardhat node 
 ```
  (5)在index.tsx中将合约地址替换成自己的合约地址 
- <img src="https://github.com/weima12345-abc/NFT_React/blob/main/Project_IMG/1.png" width="600" alt="npm start">
+ <img src="https://github.com/weima12345-abc/NFT_React/blob/main/Project_IMG3.png" width="600" alt="npm start">
  (6)替换私钥
- <img src="https://github.com/weima12345-abc/NFT_React/blob/main/Project_IMG/1.png" width="600" alt="npm start">
+ <img src="https://github.com/weima12345-abc/NFT_React/blob/main/Project_IMG/4.png" width="600" alt="npm start">
   (7)启动前端项目 Cd 进入rear文件夹，终端输入：
   ```javascripts
  npm run dev 
@@ -64,10 +64,10 @@ http://localhost:3000/
 查看你的应用。
 #### 运行结果截图
 
-<img src="https://github.com/weima12345-abc/NFT_React/blob/main/Project_IMG/1.png" width="600" alt="npm start">
-<img src="https://github.com/weima12345-abc/NFT_React/blob/main/Project_IMG/1.png" width="600" alt="npm start">
-<img src="https://github.com/weima12345-abc/NFT_React/blob/main/Project_IMG/1.png" width="600" alt="npm start">
-<img src="https://github.com/weima12345-abc/NFT_React/blob/main/Project_IMG/1.png" width="600" alt="npm start">
+<img src="https://github.com/weima12345-abc/NFT_React/blob/main/Project_IMG/5.png" width="600" alt="npm start">
+<img src="https://github.com/weima12345-abc/NFT_React/blob/main/Project_IMG/6.png" width="600" alt="npm start">
+<img src="https://github.com/weima12345-abc/NFT_React/blob/main/Project_IMG/7.png" width="600" alt="npm start">
+<img src="https://github.com/weima12345-abc/NFT_React/blob/main/Project_IMG/8.png" width="600" alt="npm start">
 
 
 
