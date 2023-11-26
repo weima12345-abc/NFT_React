@@ -48,7 +48,7 @@ npx hardhat run scripts/deploy_MyNFT.js --network localhost
 npx hardhat node 
 ```
  (5)在index.tsx中将合约地址替换成自己的合约地址 
- <img src="https://github.com/weima12345-abc/NFT_React/blob/main/Project_IMG3.png" width="600" alt="npm start">
+ <img src="https://github.com/weima12345-abc/NFT_React/blob/main/Project_IMG/3.png" width="600" alt="npm start">
  (6)替换私钥
  <img src="https://github.com/weima12345-abc/NFT_React/blob/main/Project_IMG/4.png" width="600" alt="npm start">
   (7)启动前端项目 Cd 进入rear文件夹，终端输入：
